@@ -1,5 +1,5 @@
 # Credit-Scoring-HCI
-repo for HCI's final project
+repo for HCI's final project. Will update the porject soon!!!
 
 ## Dataset
 
